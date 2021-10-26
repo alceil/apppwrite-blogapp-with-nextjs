@@ -34,14 +34,14 @@ You have two options to deploy the front-end and we will cover both of them here
 Follow these instructions to run the demo app locally
 
 ```sh
-$ git clone https://github.com/Sooraj-s-98/appwrite-instagram-clone
-$ cd appwrite-instagram-clone
+$ git clone https://github.com/alceil/apppwrite-blogapp-with-nextjs
+$ cd apppwrite-blogapp-with-nextjs
 ```
 
 
 Now fill your environment variables
 
-![image](https://user-images.githubusercontent.com/52352285/137251997-70e929d0-d6d9-4d6f-af90-094819b4c456.png)
+![image](https://user-images.githubusercontent.com/47685349/138935258-1f4ea81a-5955-4fdb-bf89-3de09a3c438a.png)
 
 
 Now run the following commands and you should be good to go 💪🏼
@@ -54,5 +54,5 @@ $ npm run dev
 
 ## Thanks
 
-Glad to see here! Show some love by [starring](https://github.com/Sooraj-s-98/appwrite-instagram-clone/) this repository. 
+Glad to see here! Show some love by [starring](https://github.com/alceil/apppwrite-blogapp-with-nextjs) this repository. 
 
