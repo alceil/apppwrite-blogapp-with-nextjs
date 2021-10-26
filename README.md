@@ -1,15 +1,14 @@
-# 🔖 Instagram clone by using NextJS and Appwrite server
+# 🔖 Blog App using NextJs And Appwrite
 
 ![logo](https://user-images.githubusercontent.com/47685349/138933572-fd0d2da5-71d7-4648-8c88-063bdac6e5b9.png)
 
 ## Screenshot
 
-![screenshotsignup](https://user-images.githubusercontent.com/52352285/137251397-19adaa5f-d910-47dd-b3f7-efd14c3c40b9.png)
+![screenshotsignup](https://user-images.githubusercontent.com/47685349/138934188-b0962c42-9946-4366-bce3-3fc0dd5646f2.png)
 
-![screenshotlogin](https://user-images.githubusercontent.com/52352285/137251467-cc22ac27-ddd6-4f49-81ba-1a49ee5833e2.png)
+![screenshotlogin](https://user-images.githubusercontent.com/47685349/138934359-b9b07137-2b33-4b15-a032-6e1c413eac34.png)
 
-![screenshot home](https://user-images.githubusercontent.com/52352285/137251350-ee7cf45e-c21b-4513-a2a5-8cf45bcd4bd8.png)
-
+![screenshothome](https://user-images.githubusercontent.com/47685349/138934552-2640037f-cc77-4445-971c-5f8466ec8e31.png)
 ## 🎬 Getting Started!
 
 ### 🤘 Install Appwrite 
