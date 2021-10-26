@@ -1,6 +1,6 @@
 # 🔖 Instagram clone by using NextJS and Appwrite server
 
-![logo]( public/image/built-with-appwrite.svg "Logo")
+![logo](https://user-images.githubusercontent.com/47685349/138933572-fd0d2da5-71d7-4648-8c88-063bdac6e5b9.png)
 
 ## Screenshot
 
