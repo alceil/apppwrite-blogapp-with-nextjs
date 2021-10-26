@@ -1,34 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🔖 Instagram clone by using NextJS and Appwrite server
 
-## Getting Started
+![logo]( public/image/built-with-appwrite.svg "Logo")
 
-First, run the development server:
+## Screenshot
 
-```bash
-npm run dev
-# or
-yarn dev
+![screenshotsignup](https://user-images.githubusercontent.com/52352285/137251397-19adaa5f-d910-47dd-b3f7-efd14c3c40b9.png)
+
+![screenshotlogin](https://user-images.githubusercontent.com/52352285/137251467-cc22ac27-ddd6-4f49-81ba-1a49ee5833e2.png)
+
+![screenshot home](https://user-images.githubusercontent.com/52352285/137251350-ee7cf45e-c21b-4513-a2a5-8cf45bcd4bd8.png)
+
+## 🎬 Getting Started!
+
+### 🤘 Install Appwrite 
+Follow our simple [Installation Guide](https://appwrite.io/docs/installation) to get Appwrite up and running in no time. You can either deploy Appwrite on your local machine or, on any cloud provider of your choice. 
+
+> Note: If you setup Appwrite on your local machine, you will need to create a public IP so that your hosted frontend can access it.
+
+
+
+
+
+
+### 🚀 Deploy the Front End
+You have two options to deploy the front-end and we will cover both of them here. In either case, you will need to fill in these environment variables that help your frontend connect to Appwrite.
+
+* REACT_APP_ENDPOINT - Your Appwrite endpoint
+* REACT_APP_PROJECT - Your Appwrite project ID
+* REACT_APP_COLLECTION_ID - Your Appwrite collection ID 
+
+
+### **Run locally**
+
+Follow these instructions to run the demo app locally
+
+```sh
+$ git clone https://github.com/Sooraj-s-98/appwrite-instagram-clone
+$ cd appwrite-instagram-clone
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Now fill your environment variables
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![image](https://user-images.githubusercontent.com/52352285/137251997-70e929d0-d6d9-4d6f-af90-094819b4c456.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+Now run the following commands and you should be good to go 💪🏼
 
-To learn more about Next.js, take a look at the following resources:
+```
+$ npm install
+$ npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Thanks
 
-## Deploy on Vercel
+Glad to see here! Show some love by [starring](https://github.com/Sooraj-s-98/appwrite-instagram-clone/) this repository. 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
