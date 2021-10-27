@@ -36,7 +36,6 @@ Add the following rules to the collection.
 * **Permissions**
 
 Add the following permissions to your collections. These permissions ensure that only registered users can access the collection.
-![image](https://user-images.githubusercontent.com/47685349/139072970-7523a39b-8ca0-4145-b63a-0be41fe10c08.png)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/47685349/139072970-7523a39b-8ca0-4145-b63a-0be41fe10c08.png" alt="IsComplete Rule" width="400"/>
